@@ -1,5 +1,4 @@
 # -DEV
-BİLGİSAYAR BÖLÜMÜNDE VERİLEN ÖDEVLERİ GİREN DE YARARLANSIN VE BENİMDE DEPOLAMA ALANINDA FAZLA YER KAPLAMASIN DİYE BURADAN PAYLAŞIYORUM...
 
 
  Klavyeden girlen 3 ürünün fiyatı 500 tl den fazla ise, 2. üründen %15 ve
